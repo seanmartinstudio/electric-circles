@@ -1,4 +1,4 @@
-# electric-circles
+# Electric Circles
 
 ### Two circles push and pull against one another and conduct colorful electricity when they touch. 
 
