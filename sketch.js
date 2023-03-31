@@ -28,6 +28,7 @@ function draw() {
 }
 
 class Circle {
+  //add args here
   constructor() {
     this.x = windowWidth / 2;
     this.y = windowHeight / 2;
